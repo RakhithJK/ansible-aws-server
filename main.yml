@@ -33,4 +33,4 @@
     github_token: "{{ lookup('env','GITHUB_TOKEN') }}"
 
   roles:
-    - { role: devbox }
+    - { role: ansible-role-devbox }

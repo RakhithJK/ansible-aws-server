@@ -14,6 +14,10 @@ Create a virtual server in AWS and setup my environment there.
 
 3) Check *CHECK ME* sections in `main.yml`.
 
+4) Install role(s):
+
+    ansible-galaxy install -r requirements.yml -p ~/ansible-roles/
+
 If you do not wish to use private DNS (route53), VPC variable is not
 needed and can be removed
 

@@ -1,0 +1,4 @@
+# from GitHub, overriding the name and specifying a specific tag
+- src: https://github.com/jreisinger/ansible-role-devbox
+  version: master
+  name: ansible-role-devbox
