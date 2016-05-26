@@ -28,6 +28,7 @@
 
     ## CHECK ME
     os_user: jreisinger
+    hostname: frodo
 
     github_token: "{{ lookup('env','GITHUB_TOKEN') }}"
 
