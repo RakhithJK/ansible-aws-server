@@ -1,3 +1,5 @@
+**NOTE**: This playbook is obsolete; it was transformed into [ansible-role-awsserver](https://github.com/jreisinger/ansible-role-awsserver).
+
 ## About
 
 Create a virtual server in AWS and setup my environment there.
